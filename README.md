@@ -6,11 +6,11 @@ Users can browse workouts, view detailed workout information, add workouts to to
 
 ## Live Website
 
-[Add your Vercel live link here]
+https://fitlog-rebuild.vercel.app/
 
 ## GitHub Repository
 
-[Add your GitHub repository link here]
+https://github.com/arman2k2023/fitlog-rebuild
 
 ## Technologies Used
 
