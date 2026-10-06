@@ -117,7 +117,7 @@ export default function Navbar() {
                                 : "text-gray-400 hover:text-white"
                             }`}
                     >
-                        Workout
+                        Workouts
                     </Link>
 
                     {/* My Plan */}
